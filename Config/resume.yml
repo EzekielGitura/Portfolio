@@ -1,0 +1,42 @@
+HEADER:
+  label: "Resume"
+
+EDUCATION:
+  enabled: true
+  label: "Education"
+  items:
+    - period: "2002 — 2004"
+      institution: "Institute of Advanced Technology"
+      description: "Completed coursework in ICT, with a particular focus on web development, programming and graphic design. Collaborated on projects involving coding and design integration."
+      
+EXPERIENCE:
+  enabled: true
+  label: "Experience"
+  items:
+    -2024"
+      position: "Graphics Design Intern"
+      description: "Was part of a design team where I created visually stunning campaigns that improved user engagement by 25%."
+   
+LANGUAGES:
+  enabled: true
+  display_progress_bars: true
+  display_percentage_values: true
+  label: "Languages"
+  items:
+    - language: "English"
+      proficiency: "90%"
+
+SKILLS:
+  enabled: true
+  display_progress_bars: true
+  display_percentage_values: true
+  label: "My Skills"
+  items:
+    - skill: "Web Design"
+      proficiency: "80%"
+    - skill: "Graphic Design"
+      proficiency: "70%"
+    - skill: "Branding"
+      proficiency: "90%"
+    - skill: "WordPress"
+      proficiency: "50%"
