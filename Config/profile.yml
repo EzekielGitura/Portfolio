@@ -1,0 +1,36 @@
+HEADER:
+  label: "Show Contacts"
+
+USER:
+  role: "Front-end Developer"
+  name: "Ezekiel Waweru"
+  username: "ezekielgitura" # <-- This needs to be the same as your GitHub username
+  avatar: "config/assets/avatars/my-avatar.png"
+
+INFO:
+  - label: "Email"
+    value: "gituraezekiel@gmail.com"
+    icon: "mail-outline"
+  - label: "Phone"
+    value: "+254727550182"
+    icon: "phone-portrait-outline"
+  - label: "Birthday"
+    value: "April 28, 2000"
+    icon: "calendar-outline"
+  - label: "Location"
+    value: "Uplands, Kiambu, Kenya"
+    icon: "location-outline"
+
+SOCIAL:
+  - icon: "logo-facebook"
+    url: "https://facebook.com/"
+  - icon: "logo-twitter"
+    url: "https://x.com/Gituraz"
+  - icon: "logo-instagram"
+    url: "https://www.instagram.com/the_gitura/"
+  - icon: "logo-linkedin"
+    url: "https://www.linkedin.com/in/ezekiel-waweru/"
+  - icon: "logo-github"
+    url: "https://github.com/gituraezekiel"
+  - icon: "logo-dribbble"
+    url: "https://dribbble.com/"
