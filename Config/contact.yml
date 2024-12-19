@@ -1,0 +1,13 @@
+HEADER:
+  label: "Contact"
+
+LOCATION:
+  embed: ""
+
+FORM:
+  label: "Contact Form"
+  fields:
+    - name: "Full name"
+    - email: "Email address"
+    - message: "Your message"
+    - submit: "Send message"
